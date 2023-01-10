@@ -14,7 +14,7 @@ class ImageConverter:
         self.root.rowconfigure(0, weight=1)
 
          # Load the background image and create a label to display it
-        self.bg_image = ImageTk.PhotoImage(Image.open("D:/G-PYTHON/Basic_Python_Projects/Image convertor/bg.jpg"))
+        self.bg_image = ImageTk.PhotoImage(Image.open("D:/G-PYTHON/Basic_Python_Projects/Python_Playground/Image convertor/bg.jpg"))
         self.bg_label = tk.Label(self.root, image=self.bg_image)
         self.bg_label.place(anchor="nw", relwidth=1, relheight=1)
 
