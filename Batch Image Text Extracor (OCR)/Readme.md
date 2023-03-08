@@ -16,7 +16,7 @@ pip install Flask
 pip install tesserocr
 ```
 
-To install Tesseract OCR, you'll also need to install the Tesseract OCR engine. You can find installation instructions for various platforms on the Tesseract OCR GitHub page.
+To install Tesseract OCR, you'll also need to install the Tesseract OCR engine. You can find installation instructions for various platforms on the [Tesseract OCR GitHub page](https://github.com/tesseract-ocr/tesseract).
 
 ## Usage
 To run the application, simply execute the **app.py** file:
@@ -33,6 +33,3 @@ To use the application, follow these steps:
 2. Click on the "Upload and download extracted text" button.
 3. Wait for the application to extract the text from all the images in the folder. This may take some time depending on the number of images and the size of the files.
 4. Once the text has been extracted, a ZIP file containing a text file for each image will be downloaded automatically. You can find the downloaded file in your web browser's downloads folder.
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
