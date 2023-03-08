@@ -28,4 +28,7 @@ This app depends on the following libraries:
 - playsound
 
 Make sure that you have these libraries installed before running the script.
+![1](https://user-images.githubusercontent.com/63750425/212463851-7337342c-f26c-4a1e-aefa-a2e9ce2b0c5b.png)
+![2](https://user-images.githubusercontent.com/63750425/212463852-042228fa-ea97-4b14-a5a5-3ea02bd0e5b7.png)
+
 
