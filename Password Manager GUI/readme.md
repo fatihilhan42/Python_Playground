@@ -16,7 +16,7 @@ Dependencies
 - SQLite3 module
 
 Installation and Usage
-Clone this repository to your local machine using git clone https://github.com/your_username/password-manager.git
+Clone this repository to your local machine using git clone https://github.com/fatihilhan42/Python_Playground/tree/main/Password%20Manager%20GUI
 Install the required dependencies using pip install -r requirements.txt
 Run the application using python PasswordManager.py
 
