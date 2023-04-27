@@ -405,11 +405,6 @@ class PasswordManagerScreen(tk.Tk):
 
             messagebox.showinfo('Info', 'Password deleted successfully!')
             
-            
-            
-            
-
-
     def logout(self):
         self.destroy()
         LoginScreen(self.master)
